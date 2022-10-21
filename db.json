@@ -83,6 +83,27 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "id": 13,
+      "date": "2022-10-26",
+      "description": "hi there",
+      "category": "coding",
+      "amount": "1.00"
+    },
+    {
+      "id": 14,
+      "date": "2022-10-26",
+      "description": "this is a test",
+      "category": "coding",
+      "amount": "111.11"
+    },
+    {
+      "id": 15,
+      "date": "2022-10-27",
+      "description": "aefga",
+      "category": "aewf",
+      "amount": "34"
     }
   ]
 }
